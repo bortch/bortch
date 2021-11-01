@@ -12,7 +12,7 @@ about_title = ":octopus: About me :octopus:"
 about_content = """\
 Hi there, 
 
-As I find myself difficult to describe, I'd say this aiku:
+As I find myself difficult to present, I'd say this aiku:
 [i] 
     A bit of everything 
     Almost just nothing
@@ -63,4 +63,5 @@ CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
 """
 
-console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
+#console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
+console.save_text("README",styles=True)
