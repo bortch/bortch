@@ -64,4 +64,4 @@ CONSOLE_HTML_FORMAT = """\
 """
 
 #console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
-console.save_text("README",styles=True)
+console.save_text("README.md",styles=True)
