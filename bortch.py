@@ -15,11 +15,15 @@ ai_ml_tree.add("[link=https://github.com/bortch/Learning_Machine_Learning]Notes 
 electronics_tree = tree.add("Electronics")
 electronics_tree.add("[link=https://bortch.github.io/Upcycled-STIB-Validator/]Upcycled STIB-MIVB Validator")
 
-title = ":octopus: About :octopus:"
+title = ":octopus: About me :octopus:"
 
 about = """\
-Hi there, I find myself difficult to classify: 
-a bit of everything and finally almost nothing.  
+Hi there, 
+
+As I find myself difficult to describe, I would say that:
+[i] I am a little bit of everything 
+and finally almost nothing, 
+but just enough.[/]
 
 I like learning, coding, experimenting, researching, modelling. 
 I feel very comfortable with Python, JavaScript and my favourite C++ and C.
@@ -28,7 +32,7 @@ I also like doing electronics and coding on microprocessors.
 
 Even if I'm mostly doubtfull about mine, I am for sharing knowledge, resources and ideas.
 
-Note: Don't expect to find only production ready code in my repo, mainly the opposite.
+Note: [i]Don't expect to find only production ready code in my repo, mainly the opposite.[/]
 """
 
 panel = Panel.fit(
