@@ -19,7 +19,7 @@ I feel very comfortable with Python, JavaScript and my favourite C++ and C.
 I am interested in artificial intelligence, machine learning and process modelling. 
 I also like doing electronics and coding on microprocessors.
 
-Even if I'm mostly doubtfull about mine, I am for the sharing of knowledge, resources and ideas.
+I am for the sharing of knowledge, resources and ideas.
 
 Note: [i]Don't expect to find only production ready code in my repo, mainly the opposite.[/]
 """
