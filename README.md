@@ -3,9 +3,9 @@
 <span style="color: #000080; text-decoration-color: #000080">│</span>                                                                                           <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
 <span style="color: #000080; text-decoration-color: #000080">│</span> As I find myself difficult to describe, I would say that:                                 <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
 <span style="color: #000080; text-decoration-color: #000080">│</span> <span style="font-style: italic"> </span>                                                                                         <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
-<span style="color: #000080; text-decoration-color: #000080">│</span> <span style="font-style: italic">    A little bit of everything </span>                                                           <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
-<span style="color: #000080; text-decoration-color: #000080">│</span> <span style="font-style: italic">    and finally almost nothing, </span>                                                          <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
-<span style="color: #000080; text-decoration-color: #000080">│</span> <span style="font-style: italic">    but just enough.</span>                                                                      <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
+<span style="color: #000080; text-decoration-color: #000080">│</span> <span style="font-style: italic">    A bit of everything </span>                                                                  <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
+<span style="color: #000080; text-decoration-color: #000080">│</span> <span style="font-style: italic">    Almost just nothing</span>                                                                   <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
+<span style="color: #000080; text-decoration-color: #000080">│</span> <span style="font-style: italic">    but only enough</span>                                                                       <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
 <span style="color: #000080; text-decoration-color: #000080">│</span>                                                                                           <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
 <span style="color: #000080; text-decoration-color: #000080">│</span> I like learning, coding, experimenting, researching, modelling.                           <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
 <span style="color: #000080; text-decoration-color: #000080">│</span> I feel very comfortable with Python, JavaScript and my favourite C++ and C.               <span style="color: #000080; text-decoration-color: #000080">│</span>                                                
@@ -26,18 +26,4 @@
 <span style="color: #000080; text-decoration-color: #000080">│</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>Electronics                                    <span style="color: #000080; text-decoration-color: #000080">│</span>                                                                                       
 <span style="color: #000080; text-decoration-color: #000080">│</span> <span style="color: #008080; text-decoration-color: #008080">    ┗━━ </span><a href="https://bortch.github.io/Upcycled-STIB-Validator/">Upcycled STIB-MIVB Validator</a>               <span style="color: #000080; text-decoration-color: #000080">│</span>                                                                                       
 <span style="color: #000080; text-decoration-color: #000080">└────────────────────────────────────────────────────┘</span>                                                                                       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </pre>

@@ -5,18 +5,18 @@ from rich.panel import Panel
 from rich.tree import Tree
 from rich.layout import Layout
 
-console = Console(record=True, width=None)
+console = Console(record=True, width=None, height=28)
 
 about_title = ":octopus: About me :octopus:"
 
 about_content = """\
 Hi there, 
 
-As I find myself difficult to describe, I would say that:
+As I find myself difficult to describe, I'd say this aiku:
 [i] 
-    A little bit of everything 
-    and finally almost nothing, 
-    but just enough.
+    A bit of everything 
+    Almost just nothing
+    but only enough
 [/]
 I like learning, coding, experimenting, researching, modelling. 
 I feel very comfortable with Python, JavaScript and my favourite C++ and C.
