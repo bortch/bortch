@@ -5,7 +5,7 @@ from rich.panel import Panel
 from rich.tree import Tree
 from rich.layout import Layout
 
-console = Console(record=True, width=None, height=28)
+console = Console(record=True, width=100, height=28)
 
 about_title = ":octopus: About me :octopus:"
 
