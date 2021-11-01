@@ -16,7 +16,7 @@ As I find myself difficult to present, I'd say this aiku:
 [i] 
     A bit of everything 
     Almost just nothing
-    but only enough
+    but always enough
 [/]
 I like learning, coding, experimenting, researching, modelling. 
 I feel very comfortable with Python, JavaScript and my favourite C++ and C.
