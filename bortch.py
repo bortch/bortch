@@ -12,7 +12,7 @@ about_content = """\
 [i] 
     A bit of everything 
     Almost just nothing
-    But always enough
+    But sometimes enough
 [/]
 I like learning, coding, experimenting, researching, modelling. 
 I feel very comfortable with Python, JavaScript and my favourite C++ and C.
