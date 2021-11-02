@@ -38,7 +38,7 @@ ai_ml_tree.add("[link=https://github.com/bortch/bs_lib]Own library of usefull fu
 ai_ml_tree.add("[link=https://github.com/bortch/quickdraw]Quick attempt @ the Quick Draw Challenge")
 ai_ml_tree.add("[link=https://github.com/bortch/second_hand_UK_car_challenge]Quick attempt @ the Used UK cars challenge")
 ai_ml_tree.add("[link=https://github.com/bortch/Learning_Machine_Learning]Notes from my AI & ML Courses")
-electronics_tree = tree.add("Electronics")
+electronics_tree = tree.add("Electronics & Embedded")
 electronics_tree.add("[link=https://bortch.github.io/Upcycled-STIB-Validator/]Upcycled STIB-MIVB Validator")
 
 TREE_SIZE = 8+PADDING
