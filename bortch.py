@@ -40,8 +40,10 @@ ai_ml_tree.add("[link=https://github.com/bortch/second_hand_UK_car_challenge]Qui
 ai_ml_tree.add("[link=https://github.com/bortch/Learning_Machine_Learning]Notes from my AI & ML Courses")
 electronics_tree = tree.add("Electronics & Embedded")
 electronics_tree.add("[link=https://bortch.github.io/Upcycled-STIB-Validator/]Upcycled STIB-MIVB Validator")
+fun_tree = tree.add("Fun stuff")
+fun_tree.add("[link=https://github.com/bortch/secret_alphabet]Secret Alphabet Generator")
 
-TREE_SIZE = 8+PADDING
+TREE_SIZE = 10+PADDING
 
 tree_panel = Panel.fit(
     tree, box=box.SQUARE, border_style="blue", title=tree_title, width=100
