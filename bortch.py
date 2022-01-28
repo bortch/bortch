@@ -34,24 +34,33 @@ tree_title = "Repositories"
 
 tree = Tree("[link=https://github.com/bortch]..", guide_style="bold cyan")
 ai_ml_tree = tree.add("AI & Machine Learning", guide_style="green")
-ai_ml_tree.add("[link=https://github.com/bortch/bs_lib]Own library of usefull functions")
-ai_ml_tree.add("[link=https://github.com/bortch/quickdraw]Quick attempt @ the Quick Draw Challenge")
-ai_ml_tree.add("[link=https://github.com/bortch/second_hand_UK_car_challenge]Quick attempt @ the Used UK cars challenge")
-ai_ml_tree.add("[link=https://github.com/bortch/Learning_Machine_Learning]Notes from my AI & ML Courses")
-electronics_tree = tree.add("Electronics & Embedded")
-electronics_tree.add("[link=https://bortch.github.io/Upcycled-STIB-Validator/]Upcycled STIB-MIVB Validator")
-fun_tree = tree.add("Fun stuff")
-fun_tree.add("[link=https://github.com/bortch/secret_alphabet]Secret Alphabet Generator")
+ai_ml_tree.add(
+    "[link=https://github.com/bortch/bs_lib]Own library of usefull functions")
+ai_ml_tree.add(
+    "[link=https://github.com/bortch/quickdraw]Quick attempt @ the Quick Draw Challenge")
+ai_ml_tree.add(
+    "[link=https://github.com/bortch/second_hand_UK_car_challenge]Quick attempt @ the Used UK cars challenge")
+ai_ml_tree.add(
+    "[link=https://github.com/bortch/Learning_Machine_Learning]Notes from my AI & ML Courses")
+blockchain_tree = tree.add("Blockchain & WebX.0", guide_style="green")
+blockchain_tree.add(
+    "[link=https://github.com/bortch/daibile]Light Python Blockchain implementation (Bitcoin based)")
+electronics_tree = tree.add("Electronics & Embedded", guide_style="green")
+electronics_tree.add(
+    "[link=https://bortch.github.io/Upcycled-STIB-Validator/]Upcycled STIB-MIVB Validator")
+fun_tree = tree.add("Fun stuff", guide_style="green")
+fun_tree.add(
+    "[link=https://github.com/bortch/secret_alphabet]Secret Alphabet Generator")
 
-TREE_SIZE = 10+PADDING
+TREE_SIZE = 12+PADDING
 
 tree_panel = Panel.fit(
     tree, box=box.SQUARE, border_style="blue", title=tree_title, width=100
 )
 
 layout = Layout()
-upper = Layout(size = ABOUT_SIZE)
-lower = Layout(size = TREE_SIZE)
+upper = Layout(size=ABOUT_SIZE)
+lower = Layout(size=TREE_SIZE)
 layout.split_column(
     upper,
     lower
@@ -67,4 +76,5 @@ CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
 """
 
-console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
+console.save_html("README.md", inline_styles=True,
+                  code_format=CONSOLE_HTML_FORMAT)
